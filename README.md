@@ -24,3 +24,8 @@ Commands:
 - internal
 - private
 - view/pure
+
+16. `yarn hardhat test` - run tests, `yarn hardhat test --grep "withdraw with multiple funders"` - run tests with grep
+17. `yarn hardhat coverage` - get test coverage
+18. https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions?discussions_q=is%3Aopen+ - forum
+19. `yarn hardhat test --network sepolia` - run tests on sepolia
