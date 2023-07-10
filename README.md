@@ -29,3 +29,4 @@ Commands:
 17. `yarn hardhat coverage` - get test coverage
 18. https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions?discussions_q=is%3Aopen+ - forum
 19. `yarn hardhat test --network sepolia` - run tests on sepolia
+20. https://github.com/othneildrew/Best-README-Template - best readme template
